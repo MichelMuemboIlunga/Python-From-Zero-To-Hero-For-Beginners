@@ -1,0 +1,17 @@
+"""
+1. Take a pen a paper (NB: The result must be an integer
+
+((((100 * 100) / 100) // 5) + (3600 - 200) * ((50.5 ** 2) % 25))
+
+2. create a python program that allow user to enter a name, date year, temperature and weight in kg
+ then the program calculate the weight and display the message in the following format:
+
+  Welcome to the checkup
+  ======================
+  Hey Mr, Mss name your temperature  is temperature degree.
+  And your weight is weight kg
+  Thanks Mr,Mss name.
+  ======================
+
+  hint( weight formula => weight * 0.45)
+"""
