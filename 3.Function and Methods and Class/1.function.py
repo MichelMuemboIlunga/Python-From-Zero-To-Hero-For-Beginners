@@ -206,6 +206,7 @@ def my_func():
 
 
 my_func()
+print("-------------- Done -------------------")
 
 # using global keyword
 
